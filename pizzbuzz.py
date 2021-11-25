@@ -1,4 +1,5 @@
 def do_fizzbuzz():
+<<<<<<< HEAD
    """
    Do fizzbuzz with for and if
    while i goes up 1 to 15,
@@ -12,6 +13,11 @@ for i in range(1,15+1):
     print('fizz')
 else:
         print('{}'.format(i))
+=======
+    i = 3
+    if i%3==0;
+        print('fizz')
+>>>>>>> fb-if
     return True
 
 
